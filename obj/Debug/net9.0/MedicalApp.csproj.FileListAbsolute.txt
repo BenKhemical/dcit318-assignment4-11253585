@@ -1,0 +1,14 @@
+C:\Users\mensa\MedicalApp\bin\Debug\net9.0\MedicalApp.exe
+C:\Users\mensa\MedicalApp\bin\Debug\net9.0\MedicalApp.deps.json
+C:\Users\mensa\MedicalApp\bin\Debug\net9.0\MedicalApp.runtimeconfig.json
+C:\Users\mensa\MedicalApp\bin\Debug\net9.0\MedicalApp.dll
+C:\Users\mensa\MedicalApp\bin\Debug\net9.0\MedicalApp.pdb
+C:\Users\mensa\MedicalApp\obj\Debug\net9.0\MedicalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mensa\MedicalApp\obj\Debug\net9.0\MedicalApp.AssemblyInfoInputs.cache
+C:\Users\mensa\MedicalApp\obj\Debug\net9.0\MedicalApp.AssemblyInfo.cs
+C:\Users\mensa\MedicalApp\obj\Debug\net9.0\MedicalApp.csproj.CoreCompileInputs.cache
+C:\Users\mensa\MedicalApp\obj\Debug\net9.0\MedicalApp.dll
+C:\Users\mensa\MedicalApp\obj\Debug\net9.0\refint\MedicalApp.dll
+C:\Users\mensa\MedicalApp\obj\Debug\net9.0\MedicalApp.pdb
+C:\Users\mensa\MedicalApp\obj\Debug\net9.0\MedicalApp.genruntimeconfig.cache
+C:\Users\mensa\MedicalApp\obj\Debug\net9.0\ref\MedicalApp.dll
